@@ -1,8 +1,8 @@
 # ReBullet WireGuard Switch
 
-A fast, terminal-based VPN configuration switcher built for WireGuard and AmneziaWG users. Designed with clarity, speed, and automation in mind.
+A fast, terminal-based VPN configuration switcher built for [WireGuard](https://github.com/WireGuard) and [AmneziaWG](https://github.com/amnezia-vpn) users. Designed with clarity, speed, and automation in mind.
 
-![screenshot](./demo.png)
+![screenshot](./assets/demo.png) <!-- Add your screenshot if needed -->
 
 ---
 
