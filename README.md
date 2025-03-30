@@ -2,7 +2,7 @@
 
 A fast, terminal-based VPN configuration switcher built for WireGuard and AmneziaWG users. Designed with clarity, speed, and automation in mind.
 
-![screenshot](./assets/demo.png) <!-- Add your screenshot if needed -->
+![screenshot](./demo.png)
 
 ---
 
