@@ -106,8 +106,8 @@ The following tools are required:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/rebullet/rebullet-wg-switch.git
-cd rebullet-wg-switch
+git clone https://github.com/UhExooHw/wireguard-conf-manager.git
+cd wireguard-conf-manager
 chmod +x ReBulletWG.sh
 sudo ./ReBulletWG.sh
 ```
